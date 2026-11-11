@@ -1,3 +1,7 @@
 *.jpeg
+*.jpg
 *.png
+!screenshot/*
+
 *.jar
+*.msch
