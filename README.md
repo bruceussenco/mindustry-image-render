@@ -1,8 +1,8 @@
 # Mindustry Image Renderer
 
-![plot](./screenshot/mindustry image generator.png)
-
 This script generates a Mindustry Schematics where a bunch of processor draw a image to tiled displays.
+
+![Project screenshot](<screenshot/mindustry image generator.png>)
 
 Depending on the size of the tiled display the image will not be completely rendered, because of the delay do place the displays, so if the display size is big put the displays before the processors.
 
