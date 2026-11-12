@@ -2,7 +2,7 @@
 
 This script generates a Mindustry Schematics where a bunch of processor draw a image to tiled displays.
 
-![Project screenshot](<screenshot/mindustry image generator.png>)
+![Project screenshot](screenshot/image1.png)
 
 ## Linux
 Download `mindcore.jar` in https://github.com/cardillan/mindcode/releases and place it in the directory where `compile.sh` is.
@@ -24,3 +24,6 @@ This project uses Mindcode, a high-level programming language compiler for Mindu
 * Usage: Mindcode is used as an external dependency through its mindcode.jar executable.
 
 Mindcode is developed and maintained by its respective authors and is not part of this project.
+
+![Screenshot screenshot](screenshot/image2.png)
+
