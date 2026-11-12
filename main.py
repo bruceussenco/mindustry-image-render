@@ -102,7 +102,7 @@ for cur_color, h_rect in h_rects.items():
 
         if code_line_count + 2 >= code_line_limit:
             codes[cur_code] += drawflush(1)
-            codes[cur_code] += "stop"
+            #codes[cur_code] += "stop"
             codes.append("")
             cur_code += 1
             code_line_count = 3
@@ -120,7 +120,7 @@ for cur_color, h_rect in h_rects.items():
     codes[cur_code] += drawflush(1)
     code_line_count += 1
 
-codes[cur_code] += "stop"
+#codes[cur_code] += "stop"
 
 # ==================== #
 
